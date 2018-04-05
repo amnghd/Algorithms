@@ -7,6 +7,6 @@ These include:
 
 ## Divide and Conquer:
 
-- Karatsuba Multiplier
+- [Karatsuba Multiplier](https://github.com/amnghd/Algorithms/blob/master/1%20-%20Karatsuba%20Multiplier/multipliers.py)
 
-- Number of inversions
+- [Number of Inversions](https://github.com/amnghd/Algorithms/blob/master/2-%20Number%20of%20Inversions/inversion.py)
