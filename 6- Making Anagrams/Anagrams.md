@@ -1,0 +1,1 @@
+You can find the problem definition, [here](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem).
